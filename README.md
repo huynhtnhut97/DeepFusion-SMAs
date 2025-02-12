@@ -28,3 +28,23 @@ The dataset comprises **32 features**, including:
    ```bash
    git clone https://github.com/your-username/DeepFusion-SMAs.git
    cd DeepFusion-SMAs
+
+📈 Results
+- Achieved a Mean Absolute Error (MAE) of 11.26°C (train set) and 20.16°C (test set).
+- Feature importance analysis identified aging temperature, Ti content, and entropy parameters as key factors influencing Ms.
+- The model generalizes well but requires additional high-temperature data for further improvements.
+
+🎯 Future Work
+- Incorporate more extensive datasets to enhance model accuracy.
+- Explore graph neural networks (GNNs) to better model alloy interactions.
+- Deploy as an interactive web-based prediction tool.
+  
+📝 Citation
+Huynh, T. N., Raji, H., Saedi, S., & Nguyen, K. D. (2025). 
+Deep Learning Framework for Accurate Prediction of Phase Transformation in Multicomponent Shape Memory Alloys. 
+(Under review at Computational Materials Science).
+
+
+🤝 Contributions & Contact
+Contributions are welcome! For questions, reach out via email.
+
