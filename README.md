@@ -28,6 +28,7 @@ The dataset comprises **32 features**, including:
    ```bash
    git clone https://github.com/your-username/DeepFusion-SMAs.git
    cd DeepFusion-SMAs
+   jupyter notebook COMMAT-D-25-00345.ipynb
 
 📈 Results
 - Achieved a Mean Absolute Error (MAE) of 11.26°C (train set) and 20.16°C (test set).
