@@ -41,6 +41,7 @@ The dataset comprises **32 features**, including:
 - Deploy as an interactive web-based prediction tool.
   
 📝 Citation
+
 Huynh, T. N., Raji, H., Saedi, S., & Nguyen, K. D. (2025). 
 Deep Learning Framework for Accurate Prediction of Phase Transformation in Multicomponent Shape Memory Alloys. 
 (Under review at Computational Materials Science).
