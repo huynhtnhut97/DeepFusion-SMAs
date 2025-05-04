@@ -6,6 +6,7 @@ This repository provides a **hybrid deep learning model** to predict the **marte
 ## 🗂 Contents
 - 📂 **Dataset/** – Experimental and literature data on SMA transformation temperatures.
 - 📓 **COMMAT-D-25-00345.ipynb** – Jupyter Notebook with the DeepFusion model implementation.
+- 📜 **requirements.txt** – List of Python dependencies for running the project.
 - 📜 **README.md** – This file explaining the project structure and goals.
 
 ## 🏗 Model Architecture
@@ -21,13 +22,19 @@ The dataset includes **32 characteristics**:
 - **Material properties**: Atomic mass, bulk modulus, melting temperature, thermal conductivity.
 - **Thermodynamic properties**: Mixing entropy, mixing enthalpy, valence electron concentration.
 
+## 🛠 Requirements
+Install dependencies using the provided `requirements.txt`:
+```bash
+pip install -r requirements.txt
+```
+
 ## 🚀 How to Use
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/DeepFusion-SMAs.git
    cd DeepFusion-SMAs
    ```
-2. Install dependencies (e.g., TensorFlow, scikit-learn, pandas).
+2. Install dependencies (see Requirements section).
 3. Run the notebook:
    ```bash
    jupyter notebook COMMAT-D-25-00345.ipynb
