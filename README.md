@@ -51,7 +51,7 @@ pip install -r requirements.txt
 - Develop a web tool for interactive Ms predictions.
 
 ## 📝 Citation
-Huynh, T. N., Raji, H., Saedi, S., & Nguyen, K. D. (2025). Deep Learning Framework for Accurate Prediction of Phase Transformation in Multicomponent Shape Memory Alloys. (Under review at Computational Materials Science).
+Huynh, T.N., Raji, H., Saedi, S. and Nguyen, K.D., 2025. Deep learning framework for accurate prediction of phase transformation in multicomponent shape memory alloys. Computational Materials Science, 258, p.114037.
 
 ## 🤝 Contributions & Contact
 We welcome contributions! Open issues or pull requests for improvements. For questions, contact nhuynh2023@my.fit.edu.
